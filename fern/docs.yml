@@ -624,6 +624,10 @@ navigation:
                     path: providers/voiceflow.mdx
                   - page: ChatDash
                     path: providers/chat-dash.mdx
+                  - page: Convolytic
+                    path: providers/convolytic.mdx
+                  - page: Klen AI
+                    path: providers/klen-ai.mdx
                   - page: Vapify
                     path: providers/vapify.mdx
                   - page: Voicerr AI
